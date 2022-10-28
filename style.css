@@ -110,6 +110,19 @@ button:hover{
     margin-top: 20px;
     margin-bottom: 20px;
 }
+.biriyani p{
+    font-size: 20px;
+    color: white;
+}
+
+.chickencurry p{
+    font-size: 20px;
+    color: white;
+}
+.firni p{
+    font-size: 20px;
+    color: white;
+}
 .chi{
     height: 200px;
     width: 400px;
